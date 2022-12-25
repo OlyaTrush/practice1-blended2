@@ -1,0 +1,28 @@
+{
+  "name": "practice1-blended2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlyaTrush/practice1-blended2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlyaTrush/practice1-blended2/issues"
+  },
+  "homepage": "https://github.com/OlyaTrush/practice1-blended2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "formidable": "^2.1.1"
+  }
+}
